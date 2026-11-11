@@ -1,3 +1,14 @@
+> **CultureReset fork of the upstream project shown under "forked from" at the top of this page.** A Claude Code plugin that hands reviews, rescue tasks and session transfer to another coding-agent CLI.
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** Apache-2.0, from upstream. For updates and issues, use the upstream project.
+>
+> The upstream README follows unchanged.
+
+---
+
 # Grok Build ↔ Claude Code Bridge
 
 Bridge [Grok Build](https://x.ai) into Claude Code for review, critique, delegation, and session import.
